@@ -1,0 +1,8 @@
+.profile{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tablerow:hover{
+    cursor: pointer;
+}
